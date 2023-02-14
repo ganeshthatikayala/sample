@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>my webpage.html</title>
+</head>
+
+<body>
+
+<table border="2"width="100%"height="500px">
+<tr>
+<th>ganeshweb.in</th>
+<th>home</th>
+<th>home</th>
+<th>about us</th>
+<th>contact us</th>
+</tr>
+<tr>
+<th colspan="10">
+<h1>welcome to my website</h1>
+</th>
+</tr>
+<tr>
+<th colspan="9">
+<font size ="5"color="red">subscribe now</font>
+</th>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
